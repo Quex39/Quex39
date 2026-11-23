@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi there, I'm Güray 👋
 
-<!--
-**Quex39/Quex39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineering** undergraduate student at **European University of Lefke (LAÜ)**, interested in systems programming, algorithms, databases, and indie game development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+* **Languages:** `C` `C++` `SQL` `HTML/CSS/JS`
+* **Systems & Tools:** `Linux (Ubuntu/Xubuntu)` `Git` `SQLite` `Visual Studio` `VMware / VirtualBox`
+* **Currently Exploring:** Data structures & compression algorithms, web game prototypes, and local LLM workflows
+
+---
+
+### 📌 Featured Work
+
+* **`huffman-cpp`** — C++ implementation of Huffman coding / data compression.
+
+---
+
+### 🎯 Focus Areas
+
+* Strengthening core **C/C++** memory management, OOP, and algorithm skills
+* Building clean, readable projects and documenting technical progress
+* Collaborating on software engineering & game dev ideas
